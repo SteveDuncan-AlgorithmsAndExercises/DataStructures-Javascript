@@ -30,6 +30,7 @@ function LinkedList(){
 		length++;
 	};
 
+	// TODO: add code for insert and remove
 	this.insert = function(element){};
 	this.remove = function(element){};
 
